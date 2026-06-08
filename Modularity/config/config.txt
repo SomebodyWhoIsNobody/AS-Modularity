@@ -1,2 +1,2 @@
-INP:txt
+INP:None
 API:None
